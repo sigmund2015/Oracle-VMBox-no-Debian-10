@@ -17,4 +17,6 @@ wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key a
 
 3. Instale o VirtualBox 6.1:
 
-sudo apt update && sudo apt install virtualbox-6.1
+sudo apt update && sudo apt install virtualbox-6.1  
+
+acesse  o terminal e digite virtualbox
